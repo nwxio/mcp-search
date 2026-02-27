@@ -5,7 +5,7 @@
 - `POST /search`: hybrid product (e-commerce) search.
 - `POST /web-search`: universal web search with provider aggregation, ranking, and optional deep analysis.
 
-It also includes an MCP server (`mcp_server.py`) so AI clients can call the same functionality through tools.
+It also includes an MCP server (`mcp_server.py`) dedicated to search workflows, including deep and targeted internet search.
 
 ## Table of Contents
 
@@ -226,6 +226,8 @@ If a provider is unavailable or returns invalid output, the service falls back t
 
 - `web_search`
 - `product_search`
+
+This MCP server is used specifically for search tasks: product lookup and deep internet search through aggregated web providers.
 
 Run it directly:
 
