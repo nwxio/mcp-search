@@ -1,4 +1,7 @@
-# searchnx
+# MCP Internet Search  Server
+
+MCP server - dedicated to search workflows, including deep and targeted internet search.
+
 
 `searchnx` is a FastAPI-based search service with two production-style pipelines:
 
@@ -6,6 +9,14 @@
 - `POST /web-search`: universal web search with provider aggregation, ranking, and optional deep analysis.
 
 It also includes an MCP server (`mcp_server.py`) dedicated to search workflows, including deep and targeted internet search.
+
+## Built for OpenCode
+
+This platform was actively developed and validated for OpenCode agent workflows.
+
+- OpenCode website: https://opencode.ai
+- OpenCode GitHub: https://github.com/anomalyco/opencode
+- Typical usage: run Memory-MCP as MCP backend for OpenCode sessions and reusable memory.
 
 ## Table of Contents
 
