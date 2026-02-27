@@ -1,0 +1,167 @@
+[
+  {
+    "id": "p-001",
+    "title": "Apple iPhone 15 128GB",
+    "description": "Смартфон Apple с OLED-дисплеем и отличной камерой.",
+    "brand": "apple",
+    "category": "smartphone",
+    "price": 72990,
+    "rating": 4.8,
+    "in_stock": true,
+    "popularity": 980
+  },
+  {
+    "id": "p-002",
+    "title": "Apple iPhone 14 128GB",
+    "description": "Надежный iPhone для ежедневных задач.",
+    "brand": "apple",
+    "category": "smartphone",
+    "price": 62990,
+    "rating": 4.7,
+    "in_stock": true,
+    "popularity": 870
+  },
+  {
+    "id": "p-003",
+    "title": "Samsung Galaxy S24 256GB",
+    "description": "Флагманский смартфон Samsung с AI-функциями.",
+    "brand": "samsung",
+    "category": "smartphone",
+    "price": 79990,
+    "rating": 4.8,
+    "in_stock": true,
+    "popularity": 940
+  },
+  {
+    "id": "p-004",
+    "title": "Samsung Galaxy A55",
+    "description": "Сбалансированный смартфон среднего сегмента.",
+    "brand": "samsung",
+    "category": "smartphone",
+    "price": 38990,
+    "rating": 4.5,
+    "in_stock": true,
+    "popularity": 760
+  },
+  {
+    "id": "p-005",
+    "title": "Xiaomi Redmi Note 13 Pro",
+    "description": "Доступный смартфон с хорошей автономностью.",
+    "brand": "xiaomi",
+    "category": "smartphone",
+    "price": 29990,
+    "rating": 4.4,
+    "in_stock": true,
+    "popularity": 820
+  },
+  {
+    "id": "p-006",
+    "title": "Apple MacBook Air 13 M3",
+    "description": "Легкий ноутбук для работы и учебы.",
+    "brand": "apple",
+    "category": "laptop",
+    "price": 129990,
+    "rating": 4.9,
+    "in_stock": true,
+    "popularity": 910
+  },
+  {
+    "id": "p-007",
+    "title": "Xiaomi Book Pro 14",
+    "description": "Ноутбук с OLED экраном и тонким корпусом.",
+    "brand": "xiaomi",
+    "category": "laptop",
+    "price": 84990,
+    "rating": 4.3,
+    "in_stock": false,
+    "popularity": 530
+  },
+  {
+    "id": "p-008",
+    "title": "Sony WH-1000XM5",
+    "description": "Премиальные беспроводные наушники с ANC.",
+    "brand": "sony",
+    "category": "headphones",
+    "price": 33990,
+    "rating": 4.8,
+    "in_stock": true,
+    "popularity": 930
+  },
+  {
+    "id": "p-009",
+    "title": "Apple AirPods Pro 2",
+    "description": "Внутриканальные наушники с шумоподавлением.",
+    "brand": "apple",
+    "category": "headphones",
+    "price": 24990,
+    "rating": 4.8,
+    "in_stock": true,
+    "popularity": 960
+  },
+  {
+    "id": "p-010",
+    "title": "Xiaomi Buds 5",
+    "description": "Компактные TWS-наушники на каждый день.",
+    "brand": "xiaomi",
+    "category": "headphones",
+    "price": 7990,
+    "rating": 4.2,
+    "in_stock": true,
+    "popularity": 640
+  },
+  {
+    "id": "p-011",
+    "title": "Sony PlayStation 5 Slim",
+    "description": "Игровая консоль нового поколения.",
+    "brand": "sony",
+    "category": "console",
+    "price": 57990,
+    "rating": 4.9,
+    "in_stock": false,
+    "popularity": 970
+  },
+  {
+    "id": "p-012",
+    "title": "Xbox Series X",
+    "description": "Мощная консоль с поддержкой 4K-гейминга.",
+    "brand": "microsoft",
+    "category": "console",
+    "price": 54990,
+    "rating": 4.7,
+    "in_stock": true,
+    "popularity": 860
+  },
+  {
+    "id": "p-013",
+    "title": "Dyson V15 Detect",
+    "description": "Премиальный вертикальный пылесос.",
+    "brand": "dyson",
+    "category": "vacuum",
+    "price": 69990,
+    "rating": 4.8,
+    "in_stock": true,
+    "popularity": 740
+  },
+  {
+    "id": "p-014",
+    "title": "Samsung Jet 75",
+    "description": "Беспроводной пылесос для дома.",
+    "brand": "samsung",
+    "category": "vacuum",
+    "price": 35990,
+    "rating": 4.4,
+    "in_stock": true,
+    "popularity": 520
+  },
+  {
+    "id": "p-015",
+    "title": "Apple iPhone 13 128GB",
+    "description": "Популярный iPhone предыдущего поколения.",
+    "brand": "apple",
+    "category": "smartphone",
+    "price": 54990,
+    "rating": 4.6,
+    "in_stock": true,
+    "popularity": 780
+  }
+]
