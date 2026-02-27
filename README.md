@@ -1,12 +1,9 @@
-# MCP Internet Search  Server
-
-MCP server - dedicated to search workflows, including deep and targeted internet search.
-
+# MCP Internet Search Server
 
 `searchnx` is a FastAPI-based search service with two production-style pipelines:
 
-- `POST /search`: hybrid product (e-commerce) search.
-- `POST /web-search`: universal web search with provider aggregation, ranking, and optional deep analysis.
+- `POST /search`: hybrid product (e-commerce) search
+- `POST /web-search`: universal web search with provider aggregation, ranking, and optional deep analysis
 
 It also includes an MCP server (`mcp_server.py`) dedicated to search workflows, including deep and targeted internet search.
 
