@@ -1,4 +1,4 @@
-# MCP Internet Search Server
+# MCP Internet Search / DeepSearch
 
 `searchnx` is a FastAPI-based search service with two production-style pipelines:
 
